@@ -1,0 +1,1 @@
+java -Dport=9001 -jar ./target/ping-service-1.0-SNAPSHOT.jar

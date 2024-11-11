@@ -1,0 +1,1 @@
+java -jar ./target/pong-service-1.0-SNAPSHOT.jar
